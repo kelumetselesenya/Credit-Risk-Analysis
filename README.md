@@ -75,18 +75,20 @@ Given the class imbalance, particular attention will be paid to precision and re
 
 ## Repository Structure
 
+## Repository Structure
+
 ```text
-credit-risk-analysis/
+Credit-Risk-Analysis/
 │
-├── README.md
-├── notebooks/
-│   └── credit_risk_analysis.ipynb
 ├── images/
 │   ├── default_distribution.png
 │   ├── default_by_education.png
 │   └── credit_limit_distribution.png
-├── requirements.txt
-└── .gitignore
+│
+├── .gitignore
+├── README.md
+├── credit_risk_analysis.ipynb
+└── requirements.txt
 ```
 
 ## Project Status
