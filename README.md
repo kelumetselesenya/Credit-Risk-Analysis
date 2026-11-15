@@ -1,5 +1,4 @@
-# Credit-Risk-Analysis
-Credit risk analysis and default prediction using Python
+
 # Credit Risk Analysis and Default Prediction
 
 ## Project Overview
